@@ -1,8 +1,11 @@
 # Simultaneous Inference of Networks and their Covariates (SINC)
+
+### Author: Nathan Osborne
+
 SINC Algorithm to do simultaneous estimation of network of compisitional data and variable selection of additional covariates. The algorithm uses a novel Variational EM estimation scheme for computational efficiency. To increase compuation speed it is also built to support multiproccessor computing. A more detailed description of the model, algorithm, and applications can be found in 
 
-> Osborne, N., Peterson, C.B. and Vannucci, M. (2020). Latent Network Estimation and Variable Selection for Compositional Data via 
-Variational EM. Revised for Journal of Computational and Graphical Statistics.
+> Osborne, N., Peterson, C.B. and Vannucci, M. (2022). Latent Network Estimation and Variable Selection for Compositional Data via 
+Variational EM. *Journal of Computational and Graphical Statistics*. 31(1): 163-175
 
 All functions needed to run SINC are found in SINC_functions.py
 
